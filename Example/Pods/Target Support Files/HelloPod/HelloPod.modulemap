@@ -1,0 +1,6 @@
+framework module HelloPod {
+  umbrella header "HelloPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

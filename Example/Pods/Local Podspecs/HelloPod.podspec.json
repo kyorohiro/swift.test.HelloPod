@@ -1,0 +1,22 @@
+{
+  "name": "HelloPod",
+  "version": "0.1.0",
+  "summary": "A short description of HelloPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kyorohiro/HelloPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kyorohiro": "kyorohiro@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/kyorohiro/HelloPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HelloPod/Classes/**/*"
+}
