@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import HelloPod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let hello = HelloPod();
+        print(hello.hello())
         // Do any additional setup after loading the view, typically from a nib.
     }
 
